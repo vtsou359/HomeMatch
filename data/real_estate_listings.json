@@ -1,0 +1,402 @@
+{
+    "House1": {
+        "Neighborhood": "Riverside Heights",
+        "Price": 320000,
+        "Bedrooms": 4,
+        "House Size": 210,
+        "Description": "Spacious 4-bedroom family home with a modern kitchen, open-plan living area, and a sun-drenched patio overlooking a private garden. The master suite features a walk-in closet and en-suite bathroom. Perfect for entertaining guests or relaxing with family.",
+        "Neighborhood Description": "Riverside Heights is known for its scenic river views, tree-lined streets, and family-friendly parks. Residents enjoy weekend farmers' markets and easy access to top-rated schools and local cafes."
+    },
+    "House2": {
+        "Neighborhood": "Old Town",
+        "Price": 185000,
+        "Bedrooms": 2,
+        "House Size": 95,
+        "Description": "Charming 2-bedroom townhouse with exposed brick walls and original hardwood floors. The updated kitchen opens to a cozy living room, and the private courtyard is ideal for morning coffee.",
+        "Neighborhood Description": "Old Town boasts historic architecture, cobblestone streets, and a vibrant arts scene. Walk to boutique shops, art galleries, and trendy restaurants in this lively neighborhood."
+    },
+    "House3": {
+        "Neighborhood": "Sunnydale",
+        "Price": 270000,
+        "Bedrooms": 3,
+        "House Size": 140,
+        "Description": "Modern 3-bedroom home featuring an open-concept layout, large windows, and a sleek kitchen with stainless steel appliances. The backyard is perfect for summer barbecues.",
+        "Neighborhood Description": "Sunnydale is a peaceful suburb with excellent schools, playgrounds, and a community pool. Residents enjoy quiet streets and friendly neighbors."
+    },
+    "House4": {
+        "Neighborhood": "City Center",
+        "Price": 450000,
+        "Bedrooms": 2,
+        "House Size": 110,
+        "Description": "Luxury 2-bedroom apartment in the heart of the city. Floor-to-ceiling windows offer panoramic skyline views. Includes access to a gym, rooftop terrace, and 24-hour concierge.",
+        "Neighborhood Description": "City Center is bustling with energy, offering world-class dining, shopping, and entertainment. Everything you need is just steps away."
+    },
+    "House5": {
+        "Neighborhood": "Maple Grove",
+        "Price": 210000,
+        "Bedrooms": 3,
+        "House Size": 125,
+        "Description": "Cozy 3-bedroom bungalow with a spacious living room, updated kitchen, and a large backyard with mature maple trees. Perfect for families or first-time buyers.",
+        "Neighborhood Description": "Maple Grove is a quiet, family-oriented neighborhood with excellent schools, parks, and walking trails. Enjoy the annual Maple Festival each autumn."
+    },
+    "House6": {
+        "Neighborhood": "Harbor View",
+        "Price": 390000,
+        "Bedrooms": 4,
+        "House Size": 200,
+        "Description": "Elegant 4-bedroom home with stunning harbor views. Features include a gourmet kitchen, formal dining room, and a large deck overlooking the water.",
+        "Neighborhood Description": "Harbor View offers a relaxed coastal lifestyle with marinas, seafood restaurants, and scenic walking paths along the waterfront."
+    },
+    "House7": {
+        "Neighborhood": "Willow Park",
+        "Price": 160000,
+        "Bedrooms": 2,
+        "House Size": 90,
+        "Description": "Bright and airy 2-bedroom apartment with a balcony overlooking Willow Park. Open-plan living and dining area, modern bathroom, and secure parking.",
+        "Neighborhood Description": "Willow Park is a green oasis in the city, featuring expansive parks, playgrounds, and a popular weekend market."
+    },
+    "House8": {
+        "Neighborhood": "Lakeside Estates",
+        "Price": 500000,
+        "Bedrooms": 5,
+        "House Size": 260,
+        "Description": "Stunning 5-bedroom villa with private lake access, a heated pool, and a chef\u2019s kitchen. The master suite includes a spa-like bathroom and balcony with lake views.",
+        "Neighborhood Description": "Lakeside Estates is an exclusive gated community with private docks, tennis courts, and a clubhouse. Enjoy peaceful walks around the lake."
+    },
+    "House9": {
+        "Neighborhood": "Elm Street",
+        "Price": 130000,
+        "Bedrooms": 2,
+        "House Size": 80,
+        "Description": "Affordable 2-bedroom starter home with a renovated kitchen, cozy living room, and fenced backyard. Ideal for young couples or small families.",
+        "Neighborhood Description": "Elm Street is a friendly neighborhood with local shops, schools, and easy access to public transport."
+    },
+    "House10": {
+        "Neighborhood": "Sunset Hills",
+        "Price": 350000,
+        "Bedrooms": 4,
+        "House Size": 190,
+        "Description": "Beautiful 4-bedroom home with a spacious open-plan living area, modern kitchen, and a large terrace perfect for watching sunsets.",
+        "Neighborhood Description": "Sunset Hills is known for its rolling hills, panoramic views, and tranquil atmosphere. Residents enjoy hiking trails and community events."
+    },
+    "House11": {
+        "Neighborhood": "Cedar Ridge",
+        "Price": 220000,
+        "Bedrooms": 3,
+        "House Size": 130,
+        "Description": "Well-maintained 3-bedroom home with a large backyard, updated bathrooms, and a finished basement. Move-in ready and close to schools.",
+        "Neighborhood Description": "Cedar Ridge is a suburban neighborhood with tree-lined streets, parks, and a strong sense of community."
+    },
+    "House12": {
+        "Neighborhood": "Downtown",
+        "Price": 410000,
+        "Bedrooms": 2,
+        "House Size": 105,
+        "Description": "Sleek 2-bedroom loft with high ceilings, exposed beams, and a private balcony. Includes underground parking and access to a fitness center.",
+        "Neighborhood Description": "Downtown is the city\u2019s cultural hub, offering theaters, museums, and a vibrant nightlife."
+    },
+    "House13": {
+        "Neighborhood": "Rosewood",
+        "Price": 175000,
+        "Bedrooms": 2,
+        "House Size": 100,
+        "Description": "Charming 2-bedroom cottage with a rose garden, updated kitchen, and cozy fireplace. Perfect for those seeking a peaceful retreat.",
+        "Neighborhood Description": "Rosewood is a picturesque neighborhood with quiet streets, beautiful gardens, and a welcoming community."
+    },
+    "House14": {
+        "Neighborhood": "Parkside",
+        "Price": 260000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Modern 3-bedroom townhouse with an open-plan kitchen, private patio, and garage. Walking distance to the park and local shops.",
+        "Neighborhood Description": "Parkside is a lively area with green spaces, playgrounds, and a variety of cafes and restaurants."
+    },
+    "House15": {
+        "Neighborhood": "Hillcrest",
+        "Price": 340000,
+        "Bedrooms": 4,
+        "House Size": 180,
+        "Description": "Spacious 4-bedroom home with a large living room, formal dining area, and a backyard with a playset. Ideal for growing families.",
+        "Neighborhood Description": "Hillcrest is a sought-after neighborhood with excellent schools, sports facilities, and beautiful views."
+    },
+    "House16": {
+        "Neighborhood": "Seaside Village",
+        "Price": 295000,
+        "Bedrooms": 3,
+        "House Size": 135,
+        "Description": "Charming 3-bedroom cottage just steps from the beach. Features a sunroom, updated kitchen, and a private garden.",
+        "Neighborhood Description": "Seaside Village offers a relaxed coastal lifestyle with sandy beaches, seafood restaurants, and a friendly community."
+    },
+    "House17": {
+        "Neighborhood": "Forest Glen",
+        "Price": 230000,
+        "Bedrooms": 3,
+        "House Size": 140,
+        "Description": "Lovely 3-bedroom home surrounded by mature trees. Includes a spacious deck, modern kitchen, and a finished basement.",
+        "Neighborhood Description": "Forest Glen is a tranquil neighborhood with walking trails, parks, and abundant wildlife."
+    },
+    "House18": {
+        "Neighborhood": "Liberty Square",
+        "Price": 195000,
+        "Bedrooms": 2,
+        "House Size": 95,
+        "Description": "Bright 2-bedroom apartment with a balcony overlooking the square. Open-plan living and dining area, modern kitchen, and secure entry.",
+        "Neighborhood Description": "Liberty Square is a vibrant urban area with shops, cafes, and regular community events."
+    },
+    "House19": {
+        "Neighborhood": "Oakwood",
+        "Price": 250000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Charming 3-bedroom home with hardwood floors, a renovated kitchen, and a large backyard with oak trees.",
+        "Neighborhood Description": "Oakwood is a family-friendly neighborhood with parks, schools, and a strong sense of community."
+    },
+    "House20": {
+        "Neighborhood": "Mountain View",
+        "Price": 370000,
+        "Bedrooms": 4,
+        "House Size": 200,
+        "Description": "Spacious 4-bedroom home with panoramic mountain views, a modern kitchen, and a large terrace.",
+        "Neighborhood Description": "Mountain View offers stunning scenery, hiking trails, and a peaceful atmosphere."
+    },
+    "House21": {
+        "Neighborhood": "Brookside",
+        "Price": 210000,
+        "Bedrooms": 3,
+        "House Size": 115,
+        "Description": "Cozy 3-bedroom home with a brook running through the backyard. Features a renovated kitchen and a sunroom.",
+        "Neighborhood Description": "Brookside is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
+    },
+    "House22": {
+        "Neighborhood": "Vineyard Hills",
+        "Price": 480000,
+        "Bedrooms": 5,
+        "House Size": 250,
+        "Description": "Elegant 5-bedroom estate surrounded by vineyards. Includes a gourmet kitchen, wine cellar, and a large patio.",
+        "Neighborhood Description": "Vineyard Hills is an upscale area known for its wineries, rolling hills, and luxurious homes."
+    },
+    "House23": {
+        "Neighborhood": "Birchwood",
+        "Price": 200000,
+        "Bedrooms": 3,
+        "House Size": 110,
+        "Description": "Charming 3-bedroom home with birchwood floors, updated kitchen, and a fenced backyard.",
+        "Neighborhood Description": "Birchwood is a peaceful neighborhood with tree-lined streets and a close-knit community."
+    },
+    "House24": {
+        "Neighborhood": "Harbor Point",
+        "Price": 360000,
+        "Bedrooms": 4,
+        "House Size": 185,
+        "Description": "Modern 4-bedroom home with harbor views, a chef\u2019s kitchen, and a large deck.",
+        "Neighborhood Description": "Harbor Point offers waterfront living, marinas, and seafood restaurants."
+    },
+    "House25": {
+        "Neighborhood": "Garden District",
+        "Price": 275000,
+        "Bedrooms": 3,
+        "House Size": 130,
+        "Description": "Beautiful 3-bedroom home with a lush garden, updated kitchen, and sunroom.",
+        "Neighborhood Description": "Garden District is known for its beautiful gardens, tree-lined streets, and historic homes."
+    },
+    "House26": {
+        "Neighborhood": "Stonebridge",
+        "Price": 225000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Well-kept 3-bedroom home with a stone fireplace, modern kitchen, and a large backyard.",
+        "Neighborhood Description": "Stonebridge is a family-friendly neighborhood with parks, schools, and community events."
+    },
+    "House27": {
+        "Neighborhood": "Lakeview",
+        "Price": 310000,
+        "Bedrooms": 4,
+        "House Size": 170,
+        "Description": "Spacious 4-bedroom home with lake views, a modern kitchen, and a large deck.",
+        "Neighborhood Description": "Lakeview offers scenic lake views, walking trails, and a peaceful atmosphere."
+    },
+    "House28": {
+        "Neighborhood": "Pinecrest",
+        "Price": 190000,
+        "Bedrooms": 2,
+        "House Size": 100,
+        "Description": "Cozy 2-bedroom home with pine floors, updated kitchen, and a private backyard.",
+        "Neighborhood Description": "Pinecrest is a quiet neighborhood with pine forests, parks, and friendly neighbors."
+    },
+    "House29": {
+        "Neighborhood": "West End",
+        "Price": 240000,
+        "Bedrooms": 3,
+        "House Size": 115,
+        "Description": "Modern 3-bedroom townhouse with an open-plan kitchen, private patio, and garage.",
+        "Neighborhood Description": "West End is a lively area with shops, restaurants, and easy access to public transport."
+    },
+    "House30": {
+        "Neighborhood": "Silver Springs",
+        "Price": 330000,
+        "Bedrooms": 4,
+        "House Size": 180,
+        "Description": "Spacious 4-bedroom home with a modern kitchen, large living room, and a backyard with a pool.",
+        "Neighborhood Description": "Silver Springs is a family-friendly neighborhood with parks, schools, and a community pool."
+    },
+    "House31": {
+        "Neighborhood": "Eastwood",
+        "Price": 210000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Charming 3-bedroom home with hardwood floors, updated kitchen, and a large backyard.",
+        "Neighborhood Description": "Eastwood is a quiet neighborhood with tree-lined streets and a close-knit community."
+    },
+    "House32": {
+        "Neighborhood": "Northgate",
+        "Price": 260000,
+        "Bedrooms": 3,
+        "House Size": 130,
+        "Description": "Modern 3-bedroom townhouse with an open-plan kitchen, private patio, and garage.",
+        "Neighborhood Description": "Northgate is a lively area with shops, restaurants, and easy access to public transport."
+    },
+    "House33": {
+        "Neighborhood": "Southside",
+        "Price": 180000,
+        "Bedrooms": 2,
+        "House Size": 95,
+        "Description": "Affordable 2-bedroom starter home with a renovated kitchen, cozy living room, and fenced backyard.",
+        "Neighborhood Description": "Southside is a friendly neighborhood with local shops, schools, and easy access to public transport."
+    },
+    "House34": {
+        "Neighborhood": "Highland Park",
+        "Price": 350000,
+        "Bedrooms": 4,
+        "House Size": 190,
+        "Description": "Beautiful 4-bedroom home with a spacious open-plan living area, modern kitchen, and a large terrace.",
+        "Neighborhood Description": "Highland Park is known for its rolling hills, panoramic views, and tranquil atmosphere."
+    },
+    "House35": {
+        "Neighborhood": "Meadowbrook",
+        "Price": 220000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Cozy 3-bedroom home with a brook running through the backyard. Features a renovated kitchen and a sunroom.",
+        "Neighborhood Description": "Meadowbrook is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
+    },
+    "House36": {
+        "Neighborhood": "Aspen Grove",
+        "Price": 240000,
+        "Bedrooms": 3,
+        "House Size": 125,
+        "Description": "Charming 3-bedroom home with aspen wood floors, updated kitchen, and a fenced backyard.",
+        "Neighborhood Description": "Aspen Grove is a peaceful neighborhood with tree-lined streets and a close-knit community."
+    },
+    "House37": {
+        "Neighborhood": "Coral Bay",
+        "Price": 420000,
+        "Bedrooms": 4,
+        "House Size": 210,
+        "Description": "Elegant 4-bedroom home with stunning bay views. Features include a gourmet kitchen, formal dining room, and a large deck overlooking the water.",
+        "Neighborhood Description": "Coral Bay offers a relaxed coastal lifestyle with marinas, seafood restaurants, and scenic walking paths along the waterfront."
+    },
+    "House38": {
+        "Neighborhood": "Cherry Lane",
+        "Price": 200000,
+        "Bedrooms": 3,
+        "House Size": 110,
+        "Description": "Charming 3-bedroom home with cherry wood floors, updated kitchen, and a fenced backyard.",
+        "Neighborhood Description": "Cherry Lane is a peaceful neighborhood with tree-lined streets and a close-knit community."
+    },
+    "House39": {
+        "Neighborhood": "Golden Fields",
+        "Price": 280000,
+        "Bedrooms": 3,
+        "House Size": 140,
+        "Description": "Modern 3-bedroom home with an open-concept layout, large windows, and a sleek kitchen with stainless steel appliances.",
+        "Neighborhood Description": "Golden Fields is a peaceful suburb with excellent schools, playgrounds, and a community pool."
+    },
+    "House40": {
+        "Neighborhood": "Riverbend",
+        "Price": 310000,
+        "Bedrooms": 4,
+        "House Size": 170,
+        "Description": "Spacious 4-bedroom home with river views, a modern kitchen, and a large deck.",
+        "Neighborhood Description": "Riverbend offers scenic river views, walking trails, and a peaceful atmosphere."
+    },
+    "House41": {
+        "Neighborhood": "Magnolia Place",
+        "Price": 230000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Charming 3-bedroom home with magnolia trees, updated kitchen, and a large backyard.",
+        "Neighborhood Description": "Magnolia Place is a family-friendly neighborhood with parks, schools, and a strong sense of community."
+    },
+    "House42": {
+        "Neighborhood": "Cloverfield",
+        "Price": 210000,
+        "Bedrooms": 3,
+        "House Size": 115,
+        "Description": "Cozy 3-bedroom home with a clover-filled backyard, renovated kitchen, and sunroom.",
+        "Neighborhood Description": "Cloverfield is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
+    },
+    "House43": {
+        "Neighborhood": "Blueberry Hill",
+        "Price": 250000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Charming 3-bedroom home with blueberry bushes, updated kitchen, and a large backyard.",
+        "Neighborhood Description": "Blueberry Hill is a peaceful neighborhood with tree-lined streets and a close-knit community."
+    },
+    "House44": {
+        "Neighborhood": "Redwood Estates",
+        "Price": 470000,
+        "Bedrooms": 5,
+        "House Size": 240,
+        "Description": "Elegant 5-bedroom estate surrounded by redwood trees. Includes a gourmet kitchen, wine cellar, and a large patio.",
+        "Neighborhood Description": "Redwood Estates is an upscale area known for its towering trees, rolling hills, and luxurious homes."
+    },
+    "House45": {
+        "Neighborhood": "Sunflower Meadows",
+        "Price": 260000,
+        "Bedrooms": 3,
+        "House Size": 130,
+        "Description": "Beautiful 3-bedroom home with a sunflower garden, updated kitchen, and sunroom.",
+        "Neighborhood Description": "Sunflower Meadows is known for its beautiful gardens, tree-lined streets, and historic homes."
+    },
+    "House46": {
+        "Neighborhood": "Pebble Creek",
+        "Price": 220000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Well-kept 3-bedroom home with a pebble creek running through the backyard, modern kitchen, and a large backyard.",
+        "Neighborhood Description": "Pebble Creek is a family-friendly neighborhood with parks, schools, and community events."
+    },
+    "House47": {
+        "Neighborhood": "Orchard Park",
+        "Price": 280000,
+        "Bedrooms": 3,
+        "House Size": 140,
+        "Description": "Modern 3-bedroom home with an open-concept layout, large windows, and a sleek kitchen with stainless steel appliances.",
+        "Neighborhood Description": "Orchard Park is a peaceful suburb with excellent schools, playgrounds, and a community pool."
+    },
+    "House48": {
+        "Neighborhood": "Crystal Lake",
+        "Price": 350000,
+        "Bedrooms": 4,
+        "House Size": 190,
+        "Description": "Beautiful 4-bedroom home with lake views, a modern kitchen, and a large terrace.",
+        "Neighborhood Description": "Crystal Lake offers scenic lake views, walking trails, and a peaceful atmosphere."
+    },
+    "House49": {
+        "Neighborhood": "Lavender Fields",
+        "Price": 230000,
+        "Bedrooms": 3,
+        "House Size": 120,
+        "Description": "Charming 3-bedroom home with lavender gardens, updated kitchen, and a large backyard.",
+        "Neighborhood Description": "Lavender Fields is a family-friendly neighborhood with parks, schools, and a strong sense of community."
+    },
+    "House50": {
+        "Neighborhood": "Willow Creek",
+        "Price": 210000,
+        "Bedrooms": 3,
+        "House Size": 115,
+        "Description": "Cozy 3-bedroom home with a willow tree in the backyard, renovated kitchen, and sunroom.",
+        "Neighborhood Description": "Willow Creek is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
+    }
+}

@@ -1,0 +1,8 @@
+langchain-openai==0.3.16
+langchain-chroma==0.2.3
+langchain-community==0.3.23
+chromadb==0.6.3
+langchain == 0.3.25
+pathlib==1.0.1
+python-dotenv==1.1.0
+pandas == 2.2.3

@@ -1,5 +1,5 @@
-,text
-0,"Neighborhood: Riverside Heights
+text
+"Neighborhood: Riverside Heights
 Price: 320000 euro
 Bedrooms: 4
 House Size: 210 square meters
@@ -7,7 +7,7 @@ House Size: 210 square meters
 Description: Spacious 4-bedroom family home with a modern kitchen, open-plan living area, and a sun-drenched patio overlooking a private garden. The master suite features a walk-in closet and en-suite bathroom. Perfect for entertaining guests or relaxing with family.
 
 Neighborhood Description: Riverside Heights is known for its scenic river views, tree-lined streets, and family-friendly parks. Residents enjoy weekend farmers' markets and easy access to top-rated schools and local cafes."
-1,"Neighborhood: Old Town
+"Neighborhood: Old Town
 Price: 185000 euro
 Bedrooms: 2
 House Size: 95 square meters
@@ -15,7 +15,7 @@ House Size: 95 square meters
 Description: Charming 2-bedroom townhouse with exposed brick walls and original hardwood floors. The updated kitchen opens to a cozy living room, and the private courtyard is ideal for morning coffee.
 
 Neighborhood Description: Old Town boasts historic architecture, cobblestone streets, and a vibrant arts scene. Walk to boutique shops, art galleries, and trendy restaurants in this lively neighborhood."
-2,"Neighborhood: Sunnydale
+"Neighborhood: Sunnydale
 Price: 270000 euro
 Bedrooms: 3
 House Size: 140 square meters
@@ -23,7 +23,7 @@ House Size: 140 square meters
 Description: Modern 3-bedroom home featuring an open-concept layout, large windows, and a sleek kitchen with stainless steel appliances. The backyard is perfect for summer barbecues.
 
 Neighborhood Description: Sunnydale is a peaceful suburb with excellent schools, playgrounds, and a community pool. Residents enjoy quiet streets and friendly neighbors."
-3,"Neighborhood: City Center
+"Neighborhood: City Center
 Price: 450000 euro
 Bedrooms: 2
 House Size: 110 square meters
@@ -31,7 +31,7 @@ House Size: 110 square meters
 Description: Luxury 2-bedroom apartment in the heart of the city. Floor-to-ceiling windows offer panoramic skyline views. Includes access to a gym, rooftop terrace, and 24-hour concierge.
 
 Neighborhood Description: City Center is bustling with energy, offering world-class dining, shopping, and entertainment. Everything you need is just steps away."
-4,"Neighborhood: Maple Grove
+"Neighborhood: Maple Grove
 Price: 210000 euro
 Bedrooms: 3
 House Size: 125 square meters
@@ -39,7 +39,7 @@ House Size: 125 square meters
 Description: Cozy 3-bedroom bungalow with a spacious living room, updated kitchen, and a large backyard with mature maple trees. Perfect for families or first-time buyers.
 
 Neighborhood Description: Maple Grove is a quiet, family-oriented neighborhood with excellent schools, parks, and walking trails. Enjoy the annual Maple Festival each autumn."
-5,"Neighborhood: Harbor View
+"Neighborhood: Harbor View
 Price: 390000 euro
 Bedrooms: 4
 House Size: 200 square meters
@@ -47,7 +47,7 @@ House Size: 200 square meters
 Description: Elegant 4-bedroom home with stunning harbor views. Features include a gourmet kitchen, formal dining room, and a large deck overlooking the water.
 
 Neighborhood Description: Harbor View offers a relaxed coastal lifestyle with marinas, seafood restaurants, and scenic walking paths along the waterfront."
-6,"Neighborhood: Willow Park
+"Neighborhood: Willow Park
 Price: 160000 euro
 Bedrooms: 2
 House Size: 90 square meters
@@ -55,7 +55,7 @@ House Size: 90 square meters
 Description: Bright and airy 2-bedroom apartment with a balcony overlooking Willow Park. Open-plan living and dining area, modern bathroom, and secure parking.
 
 Neighborhood Description: Willow Park is a green oasis in the city, featuring expansive parks, playgrounds, and a popular weekend market."
-7,"Neighborhood: Lakeside Estates
+"Neighborhood: Lakeside Estates
 Price: 500000 euro
 Bedrooms: 5
 House Size: 260 square meters
@@ -63,7 +63,7 @@ House Size: 260 square meters
 Description: Stunning 5-bedroom villa with private lake access, a heated pool, and a chef’s kitchen. The master suite includes a spa-like bathroom and balcony with lake views.
 
 Neighborhood Description: Lakeside Estates is an exclusive gated community with private docks, tennis courts, and a clubhouse. Enjoy peaceful walks around the lake."
-8,"Neighborhood: Elm Street
+"Neighborhood: Elm Street
 Price: 130000 euro
 Bedrooms: 2
 House Size: 80 square meters
@@ -71,7 +71,7 @@ House Size: 80 square meters
 Description: Affordable 2-bedroom starter home with a renovated kitchen, cozy living room, and fenced backyard. Ideal for young couples or small families.
 
 Neighborhood Description: Elm Street is a friendly neighborhood with local shops, schools, and easy access to public transport."
-9,"Neighborhood: Sunset Hills
+"Neighborhood: Sunset Hills
 Price: 350000 euro
 Bedrooms: 4
 House Size: 190 square meters
@@ -79,7 +79,7 @@ House Size: 190 square meters
 Description: Beautiful 4-bedroom home with a spacious open-plan living area, modern kitchen, and a large terrace perfect for watching sunsets.
 
 Neighborhood Description: Sunset Hills is known for its rolling hills, panoramic views, and tranquil atmosphere. Residents enjoy hiking trails and community events."
-10,"Neighborhood: Cedar Ridge
+"Neighborhood: Cedar Ridge
 Price: 220000 euro
 Bedrooms: 3
 House Size: 130 square meters
@@ -87,7 +87,7 @@ House Size: 130 square meters
 Description: Well-maintained 3-bedroom home with a large backyard, updated bathrooms, and a finished basement. Move-in ready and close to schools.
 
 Neighborhood Description: Cedar Ridge is a suburban neighborhood with tree-lined streets, parks, and a strong sense of community."
-11,"Neighborhood: Downtown
+"Neighborhood: Downtown
 Price: 410000 euro
 Bedrooms: 2
 House Size: 105 square meters
@@ -95,7 +95,7 @@ House Size: 105 square meters
 Description: Sleek 2-bedroom loft with high ceilings, exposed beams, and a private balcony. Includes underground parking and access to a fitness center.
 
 Neighborhood Description: Downtown is the city’s cultural hub, offering theaters, museums, and a vibrant nightlife."
-12,"Neighborhood: Rosewood
+"Neighborhood: Rosewood
 Price: 175000 euro
 Bedrooms: 2
 House Size: 100 square meters
@@ -103,7 +103,7 @@ House Size: 100 square meters
 Description: Charming 2-bedroom cottage with a rose garden, updated kitchen, and cozy fireplace. Perfect for those seeking a peaceful retreat.
 
 Neighborhood Description: Rosewood is a picturesque neighborhood with quiet streets, beautiful gardens, and a welcoming community."
-13,"Neighborhood: Parkside
+"Neighborhood: Parkside
 Price: 260000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -111,7 +111,7 @@ House Size: 120 square meters
 Description: Modern 3-bedroom townhouse with an open-plan kitchen, private patio, and garage. Walking distance to the park and local shops.
 
 Neighborhood Description: Parkside is a lively area with green spaces, playgrounds, and a variety of cafes and restaurants."
-14,"Neighborhood: Hillcrest
+"Neighborhood: Hillcrest
 Price: 340000 euro
 Bedrooms: 4
 House Size: 180 square meters
@@ -119,7 +119,7 @@ House Size: 180 square meters
 Description: Spacious 4-bedroom home with a large living room, formal dining area, and a backyard with a playset. Ideal for growing families.
 
 Neighborhood Description: Hillcrest is a sought-after neighborhood with excellent schools, sports facilities, and beautiful views."
-15,"Neighborhood: Seaside Village
+"Neighborhood: Seaside Village
 Price: 295000 euro
 Bedrooms: 3
 House Size: 135 square meters
@@ -127,7 +127,7 @@ House Size: 135 square meters
 Description: Charming 3-bedroom cottage just steps from the beach. Features a sunroom, updated kitchen, and a private garden.
 
 Neighborhood Description: Seaside Village offers a relaxed coastal lifestyle with sandy beaches, seafood restaurants, and a friendly community."
-16,"Neighborhood: Forest Glen
+"Neighborhood: Forest Glen
 Price: 230000 euro
 Bedrooms: 3
 House Size: 140 square meters
@@ -135,7 +135,7 @@ House Size: 140 square meters
 Description: Lovely 3-bedroom home surrounded by mature trees. Includes a spacious deck, modern kitchen, and a finished basement.
 
 Neighborhood Description: Forest Glen is a tranquil neighborhood with walking trails, parks, and abundant wildlife."
-17,"Neighborhood: Liberty Square
+"Neighborhood: Liberty Square
 Price: 195000 euro
 Bedrooms: 2
 House Size: 95 square meters
@@ -143,7 +143,7 @@ House Size: 95 square meters
 Description: Bright 2-bedroom apartment with a balcony overlooking the square. Open-plan living and dining area, modern kitchen, and secure entry.
 
 Neighborhood Description: Liberty Square is a vibrant urban area with shops, cafes, and regular community events."
-18,"Neighborhood: Oakwood
+"Neighborhood: Oakwood
 Price: 250000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -151,7 +151,7 @@ House Size: 120 square meters
 Description: Charming 3-bedroom home with hardwood floors, a renovated kitchen, and a large backyard with oak trees.
 
 Neighborhood Description: Oakwood is a family-friendly neighborhood with parks, schools, and a strong sense of community."
-19,"Neighborhood: Mountain View
+"Neighborhood: Mountain View
 Price: 370000 euro
 Bedrooms: 4
 House Size: 200 square meters
@@ -159,7 +159,7 @@ House Size: 200 square meters
 Description: Spacious 4-bedroom home with panoramic mountain views, a modern kitchen, and a large terrace.
 
 Neighborhood Description: Mountain View offers stunning scenery, hiking trails, and a peaceful atmosphere."
-20,"Neighborhood: Brookside
+"Neighborhood: Brookside
 Price: 210000 euro
 Bedrooms: 3
 House Size: 115 square meters
@@ -167,7 +167,7 @@ House Size: 115 square meters
 Description: Cozy 3-bedroom home with a brook running through the backyard. Features a renovated kitchen and a sunroom.
 
 Neighborhood Description: Brookside is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
-21,"Neighborhood: Vineyard Hills
+"Neighborhood: Vineyard Hills
 Price: 480000 euro
 Bedrooms: 5
 House Size: 250 square meters
@@ -175,7 +175,7 @@ House Size: 250 square meters
 Description: Elegant 5-bedroom estate surrounded by vineyards. Includes a gourmet kitchen, wine cellar, and a large patio.
 
 Neighborhood Description: Vineyard Hills is an upscale area known for its wineries, rolling hills, and luxurious homes."
-22,"Neighborhood: Birchwood
+"Neighborhood: Birchwood
 Price: 200000 euro
 Bedrooms: 3
 House Size: 110 square meters
@@ -183,7 +183,7 @@ House Size: 110 square meters
 Description: Charming 3-bedroom home with birchwood floors, updated kitchen, and a fenced backyard.
 
 Neighborhood Description: Birchwood is a peaceful neighborhood with tree-lined streets and a close-knit community."
-23,"Neighborhood: Harbor Point
+"Neighborhood: Harbor Point
 Price: 360000 euro
 Bedrooms: 4
 House Size: 185 square meters
@@ -191,7 +191,7 @@ House Size: 185 square meters
 Description: Modern 4-bedroom home with harbor views, a chef’s kitchen, and a large deck.
 
 Neighborhood Description: Harbor Point offers waterfront living, marinas, and seafood restaurants."
-24,"Neighborhood: Garden District
+"Neighborhood: Garden District
 Price: 275000 euro
 Bedrooms: 3
 House Size: 130 square meters
@@ -199,7 +199,7 @@ House Size: 130 square meters
 Description: Beautiful 3-bedroom home with a lush garden, updated kitchen, and sunroom.
 
 Neighborhood Description: Garden District is known for its beautiful gardens, tree-lined streets, and historic homes."
-25,"Neighborhood: Stonebridge
+"Neighborhood: Stonebridge
 Price: 225000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -207,7 +207,7 @@ House Size: 120 square meters
 Description: Well-kept 3-bedroom home with a stone fireplace, modern kitchen, and a large backyard.
 
 Neighborhood Description: Stonebridge is a family-friendly neighborhood with parks, schools, and community events."
-26,"Neighborhood: Lakeview
+"Neighborhood: Lakeview
 Price: 310000 euro
 Bedrooms: 4
 House Size: 170 square meters
@@ -215,7 +215,7 @@ House Size: 170 square meters
 Description: Spacious 4-bedroom home with lake views, a modern kitchen, and a large deck.
 
 Neighborhood Description: Lakeview offers scenic lake views, walking trails, and a peaceful atmosphere."
-27,"Neighborhood: Pinecrest
+"Neighborhood: Pinecrest
 Price: 190000 euro
 Bedrooms: 2
 House Size: 100 square meters
@@ -223,7 +223,7 @@ House Size: 100 square meters
 Description: Cozy 2-bedroom home with pine floors, updated kitchen, and a private backyard.
 
 Neighborhood Description: Pinecrest is a quiet neighborhood with pine forests, parks, and friendly neighbors."
-28,"Neighborhood: West End
+"Neighborhood: West End
 Price: 240000 euro
 Bedrooms: 3
 House Size: 115 square meters
@@ -231,7 +231,7 @@ House Size: 115 square meters
 Description: Modern 3-bedroom townhouse with an open-plan kitchen, private patio, and garage.
 
 Neighborhood Description: West End is a lively area with shops, restaurants, and easy access to public transport."
-29,"Neighborhood: Silver Springs
+"Neighborhood: Silver Springs
 Price: 330000 euro
 Bedrooms: 4
 House Size: 180 square meters
@@ -239,7 +239,7 @@ House Size: 180 square meters
 Description: Spacious 4-bedroom home with a modern kitchen, large living room, and a backyard with a pool.
 
 Neighborhood Description: Silver Springs is a family-friendly neighborhood with parks, schools, and a community pool."
-30,"Neighborhood: Eastwood
+"Neighborhood: Eastwood
 Price: 210000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -247,7 +247,7 @@ House Size: 120 square meters
 Description: Charming 3-bedroom home with hardwood floors, updated kitchen, and a large backyard.
 
 Neighborhood Description: Eastwood is a quiet neighborhood with tree-lined streets and a close-knit community."
-31,"Neighborhood: Northgate
+"Neighborhood: Northgate
 Price: 260000 euro
 Bedrooms: 3
 House Size: 130 square meters
@@ -255,7 +255,7 @@ House Size: 130 square meters
 Description: Modern 3-bedroom townhouse with an open-plan kitchen, private patio, and garage.
 
 Neighborhood Description: Northgate is a lively area with shops, restaurants, and easy access to public transport."
-32,"Neighborhood: Southside
+"Neighborhood: Southside
 Price: 180000 euro
 Bedrooms: 2
 House Size: 95 square meters
@@ -263,7 +263,7 @@ House Size: 95 square meters
 Description: Affordable 2-bedroom starter home with a renovated kitchen, cozy living room, and fenced backyard.
 
 Neighborhood Description: Southside is a friendly neighborhood with local shops, schools, and easy access to public transport."
-33,"Neighborhood: Highland Park
+"Neighborhood: Highland Park
 Price: 350000 euro
 Bedrooms: 4
 House Size: 190 square meters
@@ -271,7 +271,7 @@ House Size: 190 square meters
 Description: Beautiful 4-bedroom home with a spacious open-plan living area, modern kitchen, and a large terrace.
 
 Neighborhood Description: Highland Park is known for its rolling hills, panoramic views, and tranquil atmosphere."
-34,"Neighborhood: Meadowbrook
+"Neighborhood: Meadowbrook
 Price: 220000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -279,7 +279,7 @@ House Size: 120 square meters
 Description: Cozy 3-bedroom home with a brook running through the backyard. Features a renovated kitchen and a sunroom.
 
 Neighborhood Description: Meadowbrook is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
-35,"Neighborhood: Aspen Grove
+"Neighborhood: Aspen Grove
 Price: 240000 euro
 Bedrooms: 3
 House Size: 125 square meters
@@ -287,7 +287,7 @@ House Size: 125 square meters
 Description: Charming 3-bedroom home with aspen wood floors, updated kitchen, and a fenced backyard.
 
 Neighborhood Description: Aspen Grove is a peaceful neighborhood with tree-lined streets and a close-knit community."
-36,"Neighborhood: Coral Bay
+"Neighborhood: Coral Bay
 Price: 420000 euro
 Bedrooms: 4
 House Size: 210 square meters
@@ -295,7 +295,7 @@ House Size: 210 square meters
 Description: Elegant 4-bedroom home with stunning bay views. Features include a gourmet kitchen, formal dining room, and a large deck overlooking the water.
 
 Neighborhood Description: Coral Bay offers a relaxed coastal lifestyle with marinas, seafood restaurants, and scenic walking paths along the waterfront."
-37,"Neighborhood: Cherry Lane
+"Neighborhood: Cherry Lane
 Price: 200000 euro
 Bedrooms: 3
 House Size: 110 square meters
@@ -303,7 +303,7 @@ House Size: 110 square meters
 Description: Charming 3-bedroom home with cherry wood floors, updated kitchen, and a fenced backyard.
 
 Neighborhood Description: Cherry Lane is a peaceful neighborhood with tree-lined streets and a close-knit community."
-38,"Neighborhood: Golden Fields
+"Neighborhood: Golden Fields
 Price: 280000 euro
 Bedrooms: 3
 House Size: 140 square meters
@@ -311,7 +311,7 @@ House Size: 140 square meters
 Description: Modern 3-bedroom home with an open-concept layout, large windows, and a sleek kitchen with stainless steel appliances.
 
 Neighborhood Description: Golden Fields is a peaceful suburb with excellent schools, playgrounds, and a community pool."
-39,"Neighborhood: Riverbend
+"Neighborhood: Riverbend
 Price: 310000 euro
 Bedrooms: 4
 House Size: 170 square meters
@@ -319,7 +319,7 @@ House Size: 170 square meters
 Description: Spacious 4-bedroom home with river views, a modern kitchen, and a large deck.
 
 Neighborhood Description: Riverbend offers scenic river views, walking trails, and a peaceful atmosphere."
-40,"Neighborhood: Magnolia Place
+"Neighborhood: Magnolia Place
 Price: 230000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -327,7 +327,7 @@ House Size: 120 square meters
 Description: Charming 3-bedroom home with magnolia trees, updated kitchen, and a large backyard.
 
 Neighborhood Description: Magnolia Place is a family-friendly neighborhood with parks, schools, and a strong sense of community."
-41,"Neighborhood: Cloverfield
+"Neighborhood: Cloverfield
 Price: 210000 euro
 Bedrooms: 3
 House Size: 115 square meters
@@ -335,7 +335,7 @@ House Size: 115 square meters
 Description: Cozy 3-bedroom home with a clover-filled backyard, renovated kitchen, and sunroom.
 
 Neighborhood Description: Cloverfield is a quiet neighborhood with natural beauty, walking paths, and friendly neighbors."
-42,"Neighborhood: Blueberry Hill
+"Neighborhood: Blueberry Hill
 Price: 250000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -343,7 +343,7 @@ House Size: 120 square meters
 Description: Charming 3-bedroom home with blueberry bushes, updated kitchen, and a large backyard.
 
 Neighborhood Description: Blueberry Hill is a peaceful neighborhood with tree-lined streets and a close-knit community."
-43,"Neighborhood: Redwood Estates
+"Neighborhood: Redwood Estates
 Price: 470000 euro
 Bedrooms: 5
 House Size: 240 square meters
@@ -351,7 +351,7 @@ House Size: 240 square meters
 Description: Elegant 5-bedroom estate surrounded by redwood trees. Includes a gourmet kitchen, wine cellar, and a large patio.
 
 Neighborhood Description: Redwood Estates is an upscale area known for its towering trees, rolling hills, and luxurious homes."
-44,"Neighborhood: Sunflower Meadows
+"Neighborhood: Sunflower Meadows
 Price: 260000 euro
 Bedrooms: 3
 House Size: 130 square meters
@@ -359,7 +359,7 @@ House Size: 130 square meters
 Description: Beautiful 3-bedroom home with a sunflower garden, updated kitchen, and sunroom.
 
 Neighborhood Description: Sunflower Meadows is known for its beautiful gardens, tree-lined streets, and historic homes."
-45,"Neighborhood: Pebble Creek
+"Neighborhood: Pebble Creek
 Price: 220000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -367,7 +367,7 @@ House Size: 120 square meters
 Description: Well-kept 3-bedroom home with a pebble creek running through the backyard, modern kitchen, and a large backyard.
 
 Neighborhood Description: Pebble Creek is a family-friendly neighborhood with parks, schools, and community events."
-46,"Neighborhood: Orchard Park
+"Neighborhood: Orchard Park
 Price: 280000 euro
 Bedrooms: 3
 House Size: 140 square meters
@@ -375,7 +375,7 @@ House Size: 140 square meters
 Description: Modern 3-bedroom home with an open-concept layout, large windows, and a sleek kitchen with stainless steel appliances.
 
 Neighborhood Description: Orchard Park is a peaceful suburb with excellent schools, playgrounds, and a community pool."
-47,"Neighborhood: Crystal Lake
+"Neighborhood: Crystal Lake
 Price: 350000 euro
 Bedrooms: 4
 House Size: 190 square meters
@@ -383,7 +383,7 @@ House Size: 190 square meters
 Description: Beautiful 4-bedroom home with lake views, a modern kitchen, and a large terrace.
 
 Neighborhood Description: Crystal Lake offers scenic lake views, walking trails, and a peaceful atmosphere."
-48,"Neighborhood: Lavender Fields
+"Neighborhood: Lavender Fields
 Price: 230000 euro
 Bedrooms: 3
 House Size: 120 square meters
@@ -391,7 +391,7 @@ House Size: 120 square meters
 Description: Charming 3-bedroom home with lavender gardens, updated kitchen, and a large backyard.
 
 Neighborhood Description: Lavender Fields is a family-friendly neighborhood with parks, schools, and a strong sense of community."
-49,"Neighborhood: Willow Creek
+"Neighborhood: Willow Creek
 Price: 210000 euro
 Bedrooms: 3
 House Size: 115 square meters

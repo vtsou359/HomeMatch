@@ -6,3 +6,4 @@ langchain == 0.3.25
 pathlib==1.0.1
 python-dotenv==1.1.0
 pandas == 2.2.3
+gradio == 5.29.0

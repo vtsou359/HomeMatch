@@ -152,3 +152,4 @@ This notebook implements the RAG system prototype:
    - Price prediction functionality
    - Neighborhood analysis and comparison
    - Integration with real estate APIs for live data
+

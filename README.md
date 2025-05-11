@@ -32,7 +32,7 @@ HomeMatch combines vector databases and large language models to create a powerf
 
 ```
 HomeMatch/
-├── app.py                              # Main application file with Gradio UI
+├── HomeMatch.py                              # Main application file with Gradio UI
 ├── data/
 │   ├── real_estate_listings.json       # Generated real estate data in JSON format
 │   └── real_estate_listings_formatted.csv  # Formatted data for vector database
@@ -82,7 +82,7 @@ HomeMatch/
 To run the HomeMatch web application:
 
 ```
-python app.py
+python HomeMatch.py
 ```
 
 This will start the Gradio web interface, typically accessible at http://127.0.0.1:7860 in your web browser.

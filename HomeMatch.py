@@ -135,10 +135,12 @@ def prompt_to_llm(nhood: str, prefs: str, size: str, cost: str, context) -> str:
     prompt_template = PromptTemplate.from_template(template)
 
     # Fill in the template with the user's inputs
-    res = prompt_template.format(var0=nhood,
-                                var1=prefs,
-                                var2=size,
-                                var3=cost)
+    res = prompt_template.format(
+	    var0=nhood,
+        var1=prefs,
+        var2=size,
+        var3=cost
+    )
     return res
 
 def process_input(neighborhood, preferences, house_size, house_cost):
@@ -177,9 +179,10 @@ def process_input(neighborhood, preferences, house_size, house_cost):
     # Return the text content of the language model's response
     return llm_output.content
 
+
 # Create Gradio web interface for user interaction
 # Gradio provides an easy way to create web interfaces for machine learning models
-with gr.Blocks() as demo:
+with gr.Blocks() as app:
     # Add a title to the interface
     gr.Markdown("# HomeMatch: Real Estate Recommendation System")
 
@@ -217,18 +220,20 @@ with gr.Blocks() as demo:
         # Right column for displaying results
         with gr.Column():
             # Output area for displaying recommendations in markdown format
-            output = gr.Markdown()
+            gr.Markdown('## Recommendation Outputs')
+            output = gr.Markdown(container=True)
 
     # Connect the submit button to the process_input function
     # When clicked, it will pass all input values to the function and display the result in the output area
     submit_btn.click(
         fn=process_input,  # Function to call when button is clicked
         inputs=[neighborhood, preferences, house_size, house_cost],  # Input fields to pass to the function
-        outputs=output  # Where to display the function's output
+        outputs=output,  # Where to display the function's output,
+	    show_progress='full'
     )
 
 # Main entry point of the application
 if __name__ == "__main__":
     # Launch the Gradio web interface
     # This will start a local web server and open the interface in a browser
-    demo.launch()
+    app.launch()

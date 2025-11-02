@@ -162,6 +162,7 @@ def process_input(neighborhood, preferences, house_size, house_cost):
     Returns:
         str: Formatted recommendations from the language model
     """
+    gr.Info("Starting process, please wait...")
     # Step 1 & 2: Retrieve relevant documents based on user's preferences
     # Create a query for the vector database using the user's inputs
     retrieval_query = prompt_to_retriever(neighborhood, preferences, house_size, house_cost)
@@ -176,6 +177,7 @@ def process_input(neighborhood, preferences, house_size, house_cost):
     # Send the prompt to the OpenAI model and get personalized recommendations
     llm_output = chat_llm.invoke(input=query)
 
+    gr.Info("Process completed.", duration=3)
     # Return the text content of the language model's response
     return llm_output.content
 
